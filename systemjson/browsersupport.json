@@ -1,0 +1,23 @@
+{
+  "Windows": "ie:chrome:msedge:firefox",
+  "Macintosh": "chrome:msedge:safari:firefox",
+  "Linux__": "chromium:msedge:firefox:mycore"
+  }
+  {
+    "id": "199870_398143",
+    "assign_system_specific": "true",
+    "chrome_mac": "true",
+    "chrome_win": "true",
+    "chromium_lin": "false",
+    "safari": "false",
+    "msedge_mac": "false",
+    "msedge_lin": "false",
+    "ie": "true",
+    "msedge_win": "true",
+  }
+  { 
+    "summarizetool": "true",
+    "base": "windowsonly",
+    "supportframe": "23-1105-42910",
+    "licensekey": "generatekeys(url, systemname, wirelessband, backhalf='83014-32180-38-AF-LICENSE-KEY')"
+  }
