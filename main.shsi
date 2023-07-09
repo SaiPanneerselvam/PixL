@@ -1,0 +1,15 @@
+with JSONEvents
+fin all devices list.[{
+  "Windows": "ie:chrome:msedge:firefox",
+  "Macintosh": "chrome:msedge:safari:firefox",
+  "Linux__": "chromium:msedge:firefox:mycore"
+  }
+  {
+    "id": "199870_398143",
+    "chrome_mac": "true",
+    "chrome_win": "true",
+    "chromium_lin": "false",
+    "safari": "false",
+    "msedge_mac": "false",
+    "msedge_lin": "false",
+    "
